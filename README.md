@@ -1,5 +1,17 @@
-### Hi there 👋
+## Hi, I'm Dano!
 
+#### Front-end dev.
+
+### Contact me
+  - [LinkedIn](https://www.linkedin.com/in/daniel-barrios-profile/).
+
+
+
+
+
+
+### - I’m currently working on Kairos DS
+### - 🌱 I’m currently learning Angular and React Native
 <!--
 **Daniel-Barrios-J/Daniel-Barrios-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
